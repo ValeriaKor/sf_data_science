@@ -1,34 +1,58 @@
 # Проект 0. Угадай число
 
-## Оглавление
-[1. Описание проекта](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
-[4. Этапы работы нал проектом](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
-[5. Результат](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Результат)
-[6. Выводы](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Выводы)
+## Оглавление  
+[1. Описание проекта](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Результат)    
+[6. Выводы](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Выводы) 
 
-### Описание проекта
-Угадать заданное компьютером число за минимальное число попыток
+### Описание проекта    
+Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглпвлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up:[к оглавлению](_)
 
 
-### Какой кейс решаем?
-Нужно наприсать программу, которая угадывает число за минимальное число попыток
+### Какой кейс решаем?    
+Нужно написать программу, которая угадывает число за минимальное число попыток
 
-**Условия соревнования:**
-- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под "угадать" подразумевается "написать программу, которая угадывает число".
+**Условия соревнования:**  
+- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 
-**Метрика качества**
-Результаты лцениваются по среднему количеству попыток при 1000 повторений
+**Метрика качества**     
+Результаты оцениваются по среднему количеству попыток при 1000 повторениях
 
-**Что практикуем**
-Учимся писать хороший код на python
+**Что практикуем**     
+Учимся писать хороший код на Python
 
 
 ### Краткая информация о данных
 ....
+  
+:arrow_up:[к оглавлению](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+
+### Этапы работы над проектом
+- Выполнение обучающих заданий, освоение программ, теории и терминов  
+- Поиск математического решения задачи
+- Написание функции для поиска загаданного числа за меньшее количество попыток
+- Написание функции для проверки соответствия вышеуказанной функции требованиям задания
+
+:arrow_up:[к оглавлению](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+
+### Результаты:  
+Написана программа для угадывания числа за минимальное число попыток, включающая в себя функцию расчета средего числа попыток из 1000 значений из диапозона от 1 до 100
+
+:arrow_up:[к оглавлению](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+
+### Выводы:  
+Осуществлено знакомство с инструментами для Data Science, выполнено практическое задание 
+
+:arrow_up:[к оглавлению](https://github.com/ValeriaKor/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+
+Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарна, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
