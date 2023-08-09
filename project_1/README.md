@@ -19,7 +19,7 @@
 
 
 ### Краткая информация о данных
-База резюме, выгруженная с сайта поиска вакансий hh.ru, и информация о курсе валют () 
+База резюме, выгруженная с сайта поиска вакансий hh.ru, и информация о курсе валют (https://drive.google.com/drive/folders/1Z3H2zGtmx7pdi65GIVsHfYg_e9u-g_CF?usp=sharing) 
   
 :arrow_up:[к оглавлению](https://github.com/ValeriaKor/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
