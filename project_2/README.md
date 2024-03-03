@@ -1,4 +1,4 @@
-# Проект 1. Анализ вакансий из HeadHunter
+# Проект 2. Анализ вакансий из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/ValeriaKor/sf_data_science/tree/main/project_2/README.md#Описание-проекта)  
@@ -29,6 +29,7 @@
 - Детальный анализ вакансий
 - Анализ работодателей
 - Предметный анализ
+
 :arrow_up:[к оглавлению](https://github.com/ValeriaKor/sf_data_science/tree/main/project_2/README.md#Оглавление)
 
 
